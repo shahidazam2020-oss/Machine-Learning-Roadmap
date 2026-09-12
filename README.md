@@ -313,7 +313,7 @@ Input Layer
 
 ## 🛍️ Customer Segmentation
 
-A practical Machine Learning project focused on grouping customers according to their characteristics and behavior.
+*A practical Machine Learning project focused on grouping customers according to their characteristics and behavior.*
 
 ### 🎯 Project Objective
 
