@@ -134,7 +134,7 @@ The main goal is to build a strong understanding of Machine Learning by combinin
 
 ## 🔹 Week 01, Machine Learning Fundamentals
 
-Introduction to the core concepts of Machine Learning.
+*Introduction to the core concepts of Machine Learning.*
 
 Topics include:
 
