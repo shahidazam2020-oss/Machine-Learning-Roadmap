@@ -185,7 +185,7 @@ Topics include:
 
 ## 🔹 Week 04, Supervised Learning
 
-Introduction to predictive Machine Learning.
+*Introduction to predictive Machine Learning.*
 
 Topics include:
 
