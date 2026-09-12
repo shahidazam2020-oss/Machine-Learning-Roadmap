@@ -270,7 +270,7 @@ Topics include:
 
 # 🧠 Week 09, Neural Networks
 
-A dedicated module for understanding the foundations of Neural Networks and Deep Learning.
+*A dedicated module for understanding the foundations of Neural Networks and Deep Learning.*
 
 Topics include:
 
