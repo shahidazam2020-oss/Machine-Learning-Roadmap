@@ -201,7 +201,7 @@ Topics include:
 
 ## 🔹 Week 05, Classification
 
-Learning algorithms used for classification problems.
+*Learning algorithms used for classification problems.*
 
 Topics include:
 
