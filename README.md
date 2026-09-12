@@ -550,7 +550,7 @@ I use this repository to document my Machine Learning learning journey, experime
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
