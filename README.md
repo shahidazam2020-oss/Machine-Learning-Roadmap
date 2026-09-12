@@ -48,7 +48,7 @@ Practical Project                 ███████████████�
 
 *The course starts with the foundations of Machine Learning and gradually moves toward practical model development, evaluation, unsupervised learning, and Neural Networks.*
 
-Alongside the weekly learning material, the repository includes practical implementation and a dedicated project on **Customer Segmentation**.
+*Alongside the weekly learning material, the repository includes practical implementation and a dedicated project on **Customer Segmentation***
 
 The main goal is to build a strong understanding of Machine Learning by combining:
 
