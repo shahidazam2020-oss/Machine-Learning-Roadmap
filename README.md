@@ -546,7 +546,7 @@ I use this repository to document my Machine Learning learning journey, experime
 
 <p align="center">
 
-<a href="https://github.com/">
+<a href="https://github.com/shahidazam2020-oss">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
