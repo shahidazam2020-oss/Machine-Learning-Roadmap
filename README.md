@@ -46,7 +46,7 @@ Practical Project                 ███████████████�
 
 *This repository contains a structured **Machine Learning course from basic to advanced level**, organized into weekly learning modules.*
 
-The course starts with the foundations of Machine Learning and gradually moves toward practical model development, evaluation, unsupervised learning, and Neural Networks.
+*The course starts with the foundations of Machine Learning and gradually moves toward practical model development, evaluation, unsupervised learning, and Neural Networks.*
 
 Alongside the weekly learning material, the repository includes practical implementation and a dedicated project on **Customer Segmentation**.
 
