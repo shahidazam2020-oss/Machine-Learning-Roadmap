@@ -238,7 +238,7 @@ Topics include:
 
 ## 🔹 Week 07, Unsupervised Learning
 
-Discovering hidden patterns within datasets.
+*Discovering hidden patterns within datasets.*
 
 Topics include:
 
