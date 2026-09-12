@@ -151,7 +151,7 @@ Topics include:
 
 ## 🔹 Week 02, Data Preprocessing
 
-Preparing raw datasets for Machine Learning models.
+*Preparing raw datasets for Machine Learning models.*
 
 Topics include:
 
