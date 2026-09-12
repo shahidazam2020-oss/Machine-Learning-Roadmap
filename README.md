@@ -169,7 +169,7 @@ Topics include:
 
 ## 🔹 Week 03, Exploratory Data Analysis
 
-Understanding datasets before building models.
+*Understanding datasets before building models.*
 
 Topics include:
 
