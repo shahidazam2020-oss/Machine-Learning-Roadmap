@@ -254,7 +254,7 @@ Topics include:
 
 ## 🔹 Week 08, Advanced Machine Learning
 
-Moving from basic models toward more advanced Machine Learning concepts.
+*Moving from basic models toward more advanced Machine Learning concepts.*
 
 Topics include:
 
