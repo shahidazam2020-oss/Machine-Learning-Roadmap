@@ -317,7 +317,7 @@ Input Layer
 
 ### 🎯 Project Objective
 
-The goal of Customer Segmentation is to identify meaningful customer groups that can help businesses better understand their customers and make data driven decisions.
+*The goal of Customer Segmentation is to identify meaningful customer groups that can help businesses better understand their customers and make data driven decisions.*
 
 ### 🔍 Project Workflow
 
