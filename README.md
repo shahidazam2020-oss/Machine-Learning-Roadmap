@@ -220,7 +220,7 @@ Topics include:
 
 ## 🔹 Week 06, Regression
 
-Understanding predictive models for continuous values.
+*Understanding predictive models for continuous values.*
 
 Topics include:
 
