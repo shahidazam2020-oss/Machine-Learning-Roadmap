@@ -536,9 +536,22 @@ Improve
 
 # 👨‍💻 About Me
 
-I am a Computer Science student and aspiring **AI and Machine Learning Engineer** with an interest in Machine Learning, Deep Learning, Data Analysis, Data Visualization, NLP, and practical AI applications.
+## Shahid Azam
 
-I use this repository to document my Machine Learning learning journey, experiments, implementations, and projects.
+**MS Computer Science Student**
+**Specialization in Artificial Intelligence**
+
+*Institute of Management Sciences, Peshawar, Pakistan*
+
+### Areas of Interest
+
+• Artificial Intelligence
+• Machine Learning
+• Deep Learning
+• Natural Language Processing
+• Data Analysis
+• Data Visualization
+• EEG Signal Analysis
 
 ---
 
