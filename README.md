@@ -50,7 +50,7 @@ The course starts with the foundations of Machine Learning and gradually moves t
 
 Alongside the weekly learning material, the repository includes practical implementation and a dedicated project on **Customer Segmentation**
 
-The main goal is to build a strong understanding of Machine Learning by combining:
+**The main goal is to build a strong understanding of Machine Learning by combining:**
 
 🧠 Theory
 💻 Python implementation
