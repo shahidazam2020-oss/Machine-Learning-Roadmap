@@ -409,7 +409,7 @@ from sklearn.cluster import KMeans
 
 # 📈 Machine Learning Workflow
 
-The repository follows a practical Machine Learning workflow:
+**The repository follows a practical Machine Learning workflow:**
 
 ```text
 01  Problem Definition
