@@ -134,7 +134,7 @@ Alongside the weekly learning material, the repository includes practical implem
 
 ## 🔹 Week 01, Machine Learning Fundamentals
 
-*Introduction to the core concepts of Machine Learning.*
+**Introduction to the core concepts of Machine Learning.**
 
 Topics include:
 
