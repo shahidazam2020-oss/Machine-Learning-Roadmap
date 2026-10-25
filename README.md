@@ -441,7 +441,7 @@ from sklearn.cluster import KMeans
 
 # 🎓 Learning Outcomes
 
-After completing this course, you should be able to:
+**After completing this course, you should be able to:**
 
 ✅ Understand the fundamentals of Machine Learning
 
