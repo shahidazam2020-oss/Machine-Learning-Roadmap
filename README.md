@@ -1,401 +1,426 @@
-# 🧠 Machine Learning, From Basics to Advanced
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Basic%20to%20Advanced-blue?style=for-the-badge&logo=scikit-learn" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Neural%20Networks-Deep%20Learning-red?style=for-the-badge&logo=tensorflow" alt="Neural Networks">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
-</p>
+# 🧠 MACHINE LEARNING
+# FROM FUNDAMENTALS TO ADVANCED
 
-<p align="center">
-  <b>A structured Machine Learning journey covering concepts, algorithms, data analysis, model development, evaluation, and practical projects.</b>
-</p>
+### A Structured Learning Journey Through Machine Learning, Python & Neural Networks
 
-<p align="center">
-  <a href="#-course-overview">Course Overview</a> •
-  <a href="#-course-roadmap">Roadmap</a> •
-  <a href="#-projects">Projects</a> •
-  <a href="#-technologies">Technologies</a> •
-  <a href="#-learning-outcomes">Learning Outcomes</a>
-</p>
+**Learn • Understand • Implement • Experiment • Build**
+
+<br>
+
+[![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Processing-150458?style=for-the-badge&logo=pandas)](https://pandas.pydata.org/)
+[![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=for-the-badge&logo=numpy)](https://numpy.org/)
+
+<br>
+
+[📚 Course Modules](#-course-modules) &nbsp; • &nbsp;
+[🗺️ Roadmap](#️-learning-roadmap) &nbsp; • &nbsp;
+[🚀 Projects](#-practical-projects) &nbsp; • &nbsp;
+[⚙️ Setup](#-getting-started) &nbsp; • &nbsp;
+[👨‍💻 Developer](#-about-the-developer)
+
+<br>
+
+[![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/Machine-Learning-Roadmap?style=social)](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/Machine-Learning-Roadmap?style=social)](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/forks)
+[![Last Commit](https://img.shields.io/github/last-commit/shahidazam2020-oss/Machine-Learning-Roadmap?style=flat-square)](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/commits/master)
+
+</div>
 
 ---
 
-## 📊 Repository Dashboard
+# 📌 ABOUT THIS REPOSITORY
 
-|     📚 Course    | 🗓️ Duration |     🧠 Main Focus    |     🚀 Level     |      📁 Projects      |
-| :--------------: | :----------: | :------------------: | :--------------: | :-------------------: |
-| Machine Learning |    9 Weeks   | ML + Neural Networks | Basic → Advanced | Customer Segmentation |
+Welcome to my **Machine Learning Roadmap Repository**.
 
-### 🎯 Course Progress
+This repository documents a structured learning journey from fundamental Machine Learning concepts to advanced algorithms, practical implementation, model evaluation, and Neural Networks.
+
+It combines theoretical understanding with hands-on Python programming, Jupyter Notebook exercises, data analysis, and practical Machine Learning projects.
+
+The primary objective is to develop a strong foundation in Machine Learning by understanding how algorithms work, implementing them using Python, evaluating their performance, and applying them to practical problems.
+
+### 🎯 Learning Focus
+
+| Area | Description |
+|:---|:---|
+| 🧠 ML Fundamentals | Understanding Machine Learning concepts |
+| 🐍 Python Programming | Implementing ML algorithms |
+| 🧹 Data Preprocessing | Cleaning and preparing datasets |
+| 📊 Exploratory Data Analysis | Discovering patterns and relationships |
+| 🎯 Supervised Learning | Classification and regression |
+| 🔍 Unsupervised Learning | Clustering and pattern discovery |
+| 📈 Model Evaluation | Measuring model performance |
+| 🤖 Neural Networks | Understanding artificial neural networks |
+| 🚀 Practical Projects | Applying ML concepts to real-world problems |
+
+---
+
+# 📊 COURSE DASHBOARD
+
+<div align="center">
+
+| 📚 Course | 🗓️ Duration | 🎓 Level | 💻 Environment | 🚀 Projects |
+|:---:|:---:|:---:|:---:|:---:|
+| Machine Learning | 9 Weeks | Basic → Advanced | Python | Customer Segmentation |
+
+</div>
+
+### 📚 Learning Modules
+
+| Module | Learning Area | Navigation |
+|:---:|:---|:---:|
+| 01 | 🧠 Machine Learning Fundamentals | [Explore](#-week-01-machine-learning-fundamentals) |
+| 02 | 🧹 Data Preprocessing | [Explore](#-week-02-data-preprocessing) |
+| 03 | 📊 Exploratory Data Analysis | [Explore](#-week-03-exploratory-data-analysis) |
+| 04 | 🎯 Supervised Learning | [Explore](#-week-04-supervised-learning) |
+| 05 | 🔍 Classification Algorithms | [Explore](#-week-05-classification) |
+| 06 | 📈 Regression Algorithms | [Explore](#-week-06-regression) |
+| 07 | 🧩 Unsupervised Learning | [Explore](#-week-07-unsupervised-learning) |
+| 08 | ⚡ Advanced Machine Learning | [Explore](#-week-08-advanced-machine-learning) |
+| 09 | 🤖 Neural Networks | [Explore](#-week-09-neural-networks) |
+| 10 | 🛍️ Customer Segmentation | [Explore](#-customer-segmentation-project) |
+
+---
+
+# 🗺️ LEARNING ROADMAP
+
+A progressive learning path that connects fundamental concepts with practical Machine Learning implementation.
 
 ```text
-Machine Learning Fundamentals     ████████████████████ 100%
-Data Preprocessing                ████████████████████ 100%
-Exploratory Data Analysis         ████████████████████ 100%
-Supervised Learning               ████████████████████ 100%
-Unsupervised Learning             ████████████████████ 100%
-Model Evaluation                  ████████████████████ 100%
-Neural Networks                   ████████████████████ 100%
-Practical Project                 ████████████████████ 100%
+             🧠 MACHINE LEARNING
+                      |
+                      ▼
+           01. ML Fundamentals
+                      |
+                      ▼
+           02. Data Preprocessing
+                      |
+                      ▼
+           03. Exploratory Data Analysis
+                      |
+                      ▼
+           04. Supervised Learning
+                      |
+                      ▼
+           05. Classification
+                      |
+                      ▼
+           06. Regression
+                      |
+                      ▼
+           07. Unsupervised Learning
+                      |
+                      ▼
+           08. Advanced Machine Learning
+                      |
+                      ▼
+           09. Neural Networks
+                      |
+                      ▼
+           10. Practical ML Projects
+                      |
+                      ▼
+               🚀 APPLICATION
 ```
 
 ---
 
-# 📌 About This Repository
+# 📚 COURSE MODULES
 
-This repository contains a structured **Machine Learning course from basic to advanced level**, organized into weekly learning modules.
+## 🧠 WEEK 01 — Machine Learning Fundamentals
 
-The course starts with the foundations of Machine Learning and gradually moves toward practical model development, evaluation, unsupervised learning, and Neural Networks.
+**Focus:** Understanding the foundations of Machine Learning.
 
-Alongside the weekly learning material, the repository includes practical implementation and a dedicated project on **Customer Segmentation**
+Topics covered:
 
-**The main goal is to build a strong understanding of Machine Learning by combining:**
+- Introduction to Machine Learning.
+- Artificial Intelligence vs Machine Learning vs Deep Learning.
+- Types of Machine Learning.
+- Supervised Learning.
+- Unsupervised Learning.
+- Machine Learning workflow.
+- Features and target variables.
+- Training and testing concepts.
 
-🧠 Theory
-💻 Python implementation
-📊 Data analysis
-🤖 Machine Learning algorithms
-📈 Model evaluation
-🔬 Practical experimentation
-🚀 Real world projects
+📂 **[Explore Week 01](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/tree/master/ML%20Week%201)**
 
 ---
 
-# 🗺️ Course Roadmap
+## 🧹 WEEK 02 — Data Preprocessing
+
+**Focus:** Preparing raw datasets for Machine Learning models.
+
+Topics covered:
+
+- Data cleaning.
+- Handling missing values.
+- Duplicate records.
+- Categorical data.
+- Encoding techniques.
+- Feature scaling.
+- Normalization.
+- Standardization.
+- Training and testing data splitting.
+
+📂 **[Explore Week 02](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/tree/master/ML%20Week%202)**
+
+---
+
+## 📊 WEEK 03 — Exploratory Data Analysis
+
+**Focus:** Understanding datasets before developing predictive models.
+
+Topics covered:
+
+- Descriptive statistics.
+- Data distributions.
+- Correlation analysis.
+- Outlier detection.
+- Data visualization.
+- Feature relationships.
+- Exploratory analysis using Python.
+
+📂 **[Explore Week 03](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/tree/master/ML%20Week%203)**
+
+---
+
+## 🎯 WEEK 04 — Supervised Learning
+
+**Focus:** Understanding predictive Machine Learning.
+
+Topics covered:
+
+- Introduction to supervised learning.
+- Regression fundamentals.
+- Classification fundamentals.
+- Training Machine Learning models.
+- Making predictions.
+- Feature selection.
+- Model fitting.
+- Basic model comparison.
+
+📂 **[Explore Week 04 – Pandas](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/tree/master/ML%20Week%204/Pandas)**
+
+---
+
+## 🔍 WEEK 05 — Classification
+
+**Focus:** Learning algorithms used for classification problems.
+
+Topics covered:
+
+- Logistic Regression.
+- K-Nearest Neighbors.
+- Decision Trees.
+- Support Vector Machines.
+- Classification metrics.
+- Confusion Matrix.
+- Accuracy.
+- Precision.
+- Recall.
+- F1-Score.
+
+📂 **[Explore Week 05](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/tree/master/ML%20Week%205)**
+
+---
+
+## 📈 WEEK 06 — Regression
+
+**Focus:** Predicting continuous numerical values using Machine Learning.
+
+Topics covered:
+
+- Linear Regression.
+- Multiple Linear Regression.
+- Regression workflow.
+- Model prediction.
+- Error analysis.
+- Mean Absolute Error (MAE).
+- Mean Squared Error (MSE).
+- Root Mean Squared Error (RMSE).
+- R² Score.
+
+📂 **[Explore Week 06 – Scikit-learn](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/tree/master/ML%20Week%206/SKLearn)**
+
+---
+
+## 🧩 WEEK 07 — Unsupervised Learning
+
+**Focus:** Discovering hidden structures and patterns in datasets.
+
+Topics covered:
+
+- Introduction to clustering.
+- K-Means Clustering.
+- Feature representation.
+- Cluster analysis.
+- Choosing the number of clusters.
+- Elbow Method.
+- Cluster visualization.
+
+📂 **[Explore Week 07](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/tree/master/ML%20Week%207)**
+
+---
+
+## ⚡ WEEK 08 — Advanced Machine Learning
+
+**Focus:** Moving beyond basic algorithms toward advanced ML techniques.
+
+Topics covered:
+
+- Model optimization.
+- Cross-validation.
+- Hyperparameter tuning.
+- Feature engineering.
+- Model comparison.
+- Ensemble learning.
+- Advanced evaluation techniques.
+
+📂 **[Explore Week 08](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/tree/master/ML%20Week%208)**
+
+---
+
+## 🤖 WEEK 09 — Neural Networks
+
+**Focus:** Understanding the foundations of Artificial Neural Networks and Deep Learning.
+
+Topics covered:
+
+- Artificial Neural Networks.
+- Neurons.
+- Weights and biases.
+- Activation functions.
+- Forward propagation.
+- Backpropagation.
+- Loss functions.
+- Optimization algorithms.
+- Neural Network training.
+- Model evaluation.
+
+📂 **[Explore Neural Networks](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/tree/master/NN%20Weak%201)**
+
+### 🧬 Neural Network Architecture
 
 ```text
-                    MACHINE LEARNING
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   Week 01          │
-                 │ ML Fundamentals   │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   Week 02          │
-                 │ Data Preparation  │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   Week 03          │
-                 │ Data Analysis     │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   Week 04          │
-                 │ Supervised ML     │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   Week 05          │
-                 │ Classification    │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   Week 06          │
-                 │ Regression        │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   Week 07          │
-                 │ Unsupervised ML   │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   Week 08          │
-                 │ Advanced ML       │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │   Week 09          │
-                 │ Neural Networks   │
-                 └─────────┬─────────┘
-                           │
-                           ▼
-                 ┌───────────────────┐
-                 │ Practical Project │
-                 │ Customer Segment. │
-                 └───────────────────┘
+       INPUT LAYER
+           |
+           ▼
+    ┌──────────────┐
+    │ HIDDEN LAYER │
+    │  ○  ○  ○  ○  │
+    └──────┬───────┘
+           |
+           ▼
+    ┌──────────────┐
+    │ HIDDEN LAYER │
+    │   ○  ○  ○    │
+    └──────┬───────┘
+           |
+           ▼
+    ┌──────────────┐
+    │ OUTPUT LAYER │
+    │     ○  ○     │
+    └──────────────┘
 ```
 
 ---
 
-# 📚 Course Structure
-
-## 🔹 Week 01, Machine Learning Fundamentals
-
-**Introduction to the core concepts of Machine Learning.**
-
-Topics include:
-
-• What is Machine Learning?
-• AI vs Machine Learning vs Deep Learning
-• Types of Machine Learning
-• Supervised Learning
-• Unsupervised Learning
-• Machine Learning workflow
-• Features and target variables
-• Training and testing concepts
-
----
-
-## 🔹 Week 02, Data Preprocessing
-
-**Preparing raw datasets for Machine Learning models.**
-
-Topics include:
-
-• Data cleaning
-• Missing values
-• Duplicate records
-• Categorical data
-• Encoding techniques
-• Feature scaling
-• Normalization
-• Standardization
-• Train and test splitting
-
----
-
-## 🔹 Week 03, Exploratory Data Analysis
-
-**Understanding datasets before building models.**
-
-Topics include:
-
-• Descriptive statistics
-• Data distributions
-• Correlation analysis
-• Outlier detection
-• Data visualization
-• Feature relationships
-• Exploratory analysis using Python
-
----
-
-## 🔹 Week 04, Supervised Learning
-
-**Introduction to predictive Machine Learning.**
-
-Topics include:
-
-• Regression
-• Classification
-• Training Machine Learning models
-• Making predictions
-• Feature selection
-• Model fitting
-• Basic model comparison
-
----
-
-## 🔹 Week 05, Classification
-
-**Learning algorithms used for classification problems.**
-
-Topics include:
-
-• Logistic Regression
-• K Nearest Neighbors
-• Decision Trees
-• Support Vector Machines
-• Classification metrics
-• Confusion Matrix
-• Accuracy
-• Precision
-• Recall
-• F1 Score
-
----
-
-## 🔹 Week 06, Regression
-
-**Understanding predictive models for continuous values.**
-
-Topics include:
-
-• Linear Regression
-• Multiple Linear Regression
-• Regression workflow
-• Prediction
-• Error analysis
-• MAE
-• MSE
-• RMSE
-• R² Score
-
----
-
-## 🔹 Week 07, Unsupervised Learning
-
-**Discovering hidden patterns within datasets.**
-
-Topics include:
-
-• Clustering
-• K Means Clustering
-• Feature representation
-• Cluster analysis
-• Choosing the number of clusters
-• Elbow Method
-• Cluster visualization
-
----
-
-## 🔹 Week 08, Advanced Machine Learning
-
-**Moving from basic models toward more advanced Machine Learning concepts.**
-
-Topics include:
-
-• Model optimization
-• Cross validation
-• Hyperparameter tuning
-• Feature engineering
-• Model comparison
-• Ensemble learning
-• Advanced evaluation techniques
-
----
-
-# 🧠 Week 09, Neural Networks
-
-**A dedicated module for understanding the foundations of Neural Networks and Deep Learning.**
-
-Topics include:
-
-• Artificial Neural Networks
-• Neurons
-• Weights and biases
-• Activation functions
-• Forward propagation
-• Backpropagation
-• Loss functions
-• Optimizers
-• Training Neural Networks
-• Model evaluation
-
-```text
-Input Layer
-     │
-     ▼
-┌─────────────┐
-│ Hidden Layer│
-│ ○ ○ ○ ○ ○   │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│ Hidden Layer│
-│ ○ ○ ○ ○     │
-└──────┬──────┘
-       │
-       ▼
-┌─────────────┐
-│ Output Layer│
-│ ○ ○         │
-└─────────────┘
-```
-
----
-
-# 🚀 Projects
+# 🚀 PRACTICAL PROJECTS
 
 ## 🛍️ Customer Segmentation
 
-**A practical Machine Learning project focused on grouping customers according to their characteristics and behavior.**
+**Domain:** Machine Learning | Unsupervised Learning | Business Analytics
+
+A practical Machine Learning project focused on identifying meaningful customer groups based on customer characteristics and behavioral patterns.
 
 ### 🎯 Project Objective
 
-**The goal of Customer Segmentation is to identify meaningful customer groups that can help businesses better understand their customers and make data driven decisions.**
+The primary objective is to explore customer data and apply clustering techniques to identify distinct customer segments.
 
-### 🔍 Project Workflow
+Customer segmentation can help businesses understand customer behavior and support data-driven decision-making.
 
-```text
-Dataset
-   │
-   ▼
-Data Cleaning
-   │
-   ▼
-Exploratory Data Analysis
-   │
-   ▼
-Feature Selection
-   │
-   ▼
-Data Preprocessing
-   │
-   ▼
-Clustering
-   │
-   ▼
-Customer Groups
-   │
-   ▼
-Visualization
-   │
-   ▼
-Business Insights
-```
-
-### 📊 Key Concepts
-
-• Customer data analysis
-• Feature exploration
-• Data preprocessing
-• Clustering
-• K Means
-• Cluster visualization
-• Customer profiling
-• Business interpretation
-
-📁 Project location:
+### 🔬 Project Workflow
 
 ```text
-Projects/
-└── Customer Segmentation/
+       📂 Customer Dataset
+                |
+                ▼
+        🧹 Data Cleaning
+                |
+                ▼
+        📊 Exploratory Analysis
+                |
+                ▼
+        ⚙️ Feature Preparation
+                |
+                ▼
+        🧠 Clustering Algorithm
+                |
+                ▼
+        🔍 Customer Segments
+                |
+                ▼
+        📈 Visualization
+                |
+                ▼
+        💡 Business Insights
 ```
+
+### 🔍 Key Concepts
+
+- Data exploration.
+- Data preprocessing.
+- Feature selection.
+- K-Means clustering.
+- Cluster analysis.
+- Customer profiling.
+- Data visualization.
+
+### 📂 Project Location
+
+**[Open Customer Segmentation Project](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/tree/master/Projects/CustomerSegmentation)**
 
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ TECHNOLOGY STACK
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+### 🐍 Programming Language
 
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+### 📊 Data Processing & Analysis
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+### 📈 Data Visualization
 
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=flat-square)
 
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+### 🤖 Machine Learning
 
-</p>
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
----
+### 💻 Development Environment
 
-# 📦 Main Libraries
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+### 📦 Main Python Libraries
 
 ```python
 import numpy as np
 import pandas as pd
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -407,186 +432,259 @@ from sklearn.cluster import KMeans
 
 ---
 
-# 📈 Machine Learning Workflow
+# 🔄 MACHINE LEARNING WORKFLOW
 
-**The repository follows a practical Machine Learning workflow:**
+The repository introduces the major stages of a typical Machine Learning workflow.
+
+| Step | Process | Purpose |
+|:---:|:---|:---|
+| 01 | Problem Definition | Identify the problem |
+| 02 | Data Collection | Gather relevant information |
+| 03 | Data Understanding | Explore the dataset |
+| 04 | Data Cleaning | Improve data quality |
+| 05 | Exploratory Analysis | Discover patterns |
+| 06 | Feature Engineering | Prepare useful features |
+| 07 | Data Preprocessing | Transform the dataset |
+| 08 | Model Development | Train ML algorithms |
+| 09 | Model Evaluation | Measure performance |
+| 10 | Model Optimization | Improve model configuration |
+| 11 | Visualization | Communicate results |
+| 12 | Interpretation | Draw meaningful conclusions |
+
+---
+
+# 📁 REPOSITORY STRUCTURE
+
+The repository is organized into weekly learning modules, supporting notebooks, assignments, and a practical project.
 
 ```text
-01  Problem Definition
-        ↓
-02  Data Collection
-        ↓
-03  Data Understanding
-        ↓
-04  Data Cleaning
-        ↓
-05  Exploratory Data Analysis
-        ↓
-06  Feature Engineering
-        ↓
-07  Data Preprocessing
-        ↓
-08  Model Development
-        ↓
-09  Model Evaluation
-        ↓
-10  Model Optimization
-        ↓
-11  Visualization
-        ↓
-12  Insights & Conclusions
+Machine-Learning-Roadmap/
+│
+├── 📂 ML Week 1/
+│
+├── 📂 ML Week 2/
+│
+├── 📂 ML Week 3/
+│
+├── 📂 ML Week 4/
+│   └── 📂 Pandas/
+│
+├── 📂 ML Week 5/
+│
+├── 📂 ML Week 6/
+│   └── 📂 SKLearn/
+│
+├── 📂 ML Week 7/
+│
+├── 📂 ML Week 8/
+│
+├── 📂 NN Weak 1/
+│
+├── 📂 Projects/
+│   └── 📂 CustomerSegmentation/
+│
+├── 📓 ML assignment (2).ipynb
+├── 📓 ML assignment (3).ipynb
+├── 📓 ml assignment.ipynb
+│
+├── 📓 calendar bg.ipynb
+├── 📓 calender.ipynb
+├── 📓 train_analysis_notebook.ipynb
+│
+├── 📄 .gitattributes
+├── 📄 .gitignore
+├── 📄 README.md
+│
+└── 📘 Starting Out with Python
+    [Reference PDF]
 ```
 
 ---
 
-# 🎓 Learning Outcomes
+# 🚀 GETTING STARTED
 
-**After completing this course, you should be able to:**
+Follow these steps to explore the Machine Learning implementations.
 
-✅ Understand the fundamentals of Machine Learning
+### 1. Clone the Repository
 
-✅ Work with real world datasets
-
-✅ Clean and preprocess data
-
-✅ Perform exploratory data analysis
-
-✅ Build supervised learning models
-
-✅ Solve classification and regression problems
-
-✅ Apply unsupervised learning techniques
-
-✅ Perform customer segmentation
-
-✅ Evaluate Machine Learning models
-
-✅ Understand Neural Network fundamentals
-
-✅ Visualize data and model results
-
-✅ Develop complete Machine Learning projects
-
----
-
-# 📁 Repository Structure
-
-```text
-Machine-Learning/
-│
-├── 📚 Week-01/
-│
-├── 📚 Week-02/
-│
-├── 📚 Week-03/
-│
-├── 📚 Week-04/
-│
-├── 📚 Week-05/
-│
-├── 📚 Week-06/
-│
-├── 📚 Week-07/
-│
-├── 📚 Week-08/
-│
-├── 🧠 Neural-Network/
-│
-├── 🚀 Projects/
-│   └── 🛍️ Customer-Segmentation/
-│
-└── 📄 README.md
+```bash
+git clone https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap.git
 ```
 
-> Folder names may vary depending on the actual repository structure.
+### 2. Navigate to the Repository
 
----
-
-# 💡 Why This Repository?
-
-This repository is designed as a practical learning journey rather than a collection of isolated examples.
-
-It connects fundamental concepts with implementation and gradually moves toward more advanced Machine Learning and Neural Network techniques.
-
-The project section provides an opportunity to apply the concepts learned throughout the course to practical problems.
-
----
-
-# 🌱 Learning Philosophy
-
-```text
-Learn
-  ↓
-Understand
-  ↓
-Implement
-  ↓
-Experiment
-  ↓
-Evaluate
-  ↓
-Build Projects
-  ↓
-Improve
+```bash
+cd Machine-Learning-Roadmap
 ```
 
-> **Learn the concept. Implement it. Experiment with it. Build something useful.**
+### 3. Create a Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+### 4. Activate the Environment
+
+**Windows:**
+
+```bash
+venv\Scripts\activate
+```
+
+**Linux / macOS:**
+
+```bash
+source venv/bin/activate
+```
+
+### 5. Install Required Libraries
+
+```bash
+pip install numpy pandas matplotlib seaborn scikit-learn jupyter
+```
+
+### 6. Launch Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+### 7. Start Learning
+
+Navigate to the relevant weekly folder and open the required Jupyter Notebook.
+
+Execute the notebook cells to explore the concepts and implementations.
+
+**Note:** Individual notebooks may require additional dependencies or datasets.
 
 ---
 
-# 👨‍💻 About Me
+# 🎓 LEARNING OUTCOMES
+
+Through this learning journey, the following skills and concepts are explored:
+
+- 🧠 Understanding Machine Learning fundamentals.
+- 🐍 Python programming for Machine Learning.
+- 🧹 Data cleaning and preprocessing.
+- 📊 Exploratory Data Analysis.
+- 🎯 Supervised Learning algorithms.
+- 🔍 Classification techniques.
+- 📈 Regression modeling.
+- 🧩 Unsupervised Learning.
+- ⚙️ Feature engineering.
+- 📉 Model evaluation techniques.
+- 🤖 Neural Network fundamentals.
+- 🛍️ Practical Machine Learning projects.
+
+---
+
+# 📸 VISUAL PROJECT GALLERY
+
+A dedicated visual gallery can make the repository more engaging.
+
+Recommended screenshots to add:
+
+```text
+assets/
+└── screenshots/
+    ├── customer-segmentation.png
+    ├── exploratory-data-analysis.png
+    ├── classification-results.png
+    ├── regression-analysis.png
+    └── clustering-visualization.png
+```
+
+Once actual screenshots are uploaded, they can be embedded here to demonstrate your Python implementations and project outputs.
+
+---
+
+# 🔮 FUTURE LEARNING DIRECTIONS
+
+Potential areas for further exploration include:
+
+- Deep Learning with TensorFlow and PyTorch.
+- Convolutional Neural Networks (CNNs).
+- Recurrent Neural Networks (RNNs).
+- Natural Language Processing.
+- Computer Vision.
+- Transfer Learning.
+- Model Deployment.
+- MLOps and Model Monitoring.
+- Generative AI and Large Language Models.
+
+---
+
+# 🤝 CONTRIBUTIONS
+
+Suggestions, feedback, and improvements are welcome.
+
+If you would like to contribute:
+
+1. Fork this repository.
+2. Create a new branch.
+3. Implement your improvements.
+4. Test your code.
+5. Submit a Pull Request.
+
+---
+
+# 📜 LICENSE
+
+No explicit open-source license is currently specified for this repository.
+
+Please contact the repository owner regarding permissions before redistributing or reusing its contents.
+
+---
+
+# 👨‍💻 ABOUT THE DEVELOPER
+
+<div align="center">
 
 ## Shahid Azam
 
-**MS Computer Science Student**
-**Specialization in Artificial Intelligence**
+**MS Computer Science | Artificial Intelligence**
 
-*Institute of Management Sciences, Peshawar, Pakistan*
+Institute of Management Sciences, Peshawar, Pakistan
 
-### Areas of Interest
+Interested in Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Computer Vision, and Research.
 
-• Artificial Intelligence
-• Machine Learning
-• Deep Learning
-• Natural Language Processing
-• Data Analysis
-• Data Visualization
-• EEG Signal Analysis
+<br>
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/shahidazam2020-oss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shahid-azam-mughal-787b58235)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Shahid-Azam-5)
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-A6CE39?style=for-the-badge&logo=orcid)](https://orcid.org/0009-0001-6825-8863)
 
-# 🤝 Connect With Me
+📧 **Email:** shahidazam2020@gmail.com
 
-<p align="center">
-
-<a href="https://github.com/shahidazam2020-oss">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/shahid-azam-mughal-787b58235">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:shahidazam2020@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+</div>
 
 ---
 
-# ⭐ Support
+<div align="center">
 
-If you find this repository useful for learning Machine Learning, consider giving it a ⭐.
+# ⭐ SUPPORT THIS PROJECT
 
-Your feedback, suggestions, and contributions are welcome.
+If you find this repository helpful:
 
----
+⭐ Star the repository.
 
-<p align="center">
-  <b>🧠 Learn Machine Learning • 💻 Build Models • 📊 Analyze Data • 🚀 Create Projects</b>
-</p>
+🍴 Fork it for your own experiments.
 
-<p align="center">
-  Made with ❤️ for learning, experimentation, and continuous improvement.
-</p>
+💬 Share your feedback.
+
+🤝 Contribute improvements.
+
+<br>
+
+### 🧠 Learn • Code • Experiment • Innovate
+
+**Building Machine Learning Knowledge Through Practical Implementation.**
+
+<br>
+
+Developed with ❤️ by **Shahid Azam**
+
+[⬆ Back to Top](#-machine-learning)
+
+</div>
