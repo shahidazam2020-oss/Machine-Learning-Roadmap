@@ -23,9 +23,7 @@
 [⚙️ Setup](#-getting-started) &nbsp; • &nbsp;
 [👨‍💻 Developer](#-about-the-developer)
 
-<br>
-
-  <a href="https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/stargazers">
+ <a href="https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Machine-Learning-Roadmap?style=social" alt="GitHub Stars">
   </a>
   <a href="https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/forks">
@@ -34,9 +32,8 @@
   <a href="https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/commits">
     <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Machine-Learning-Roadmap?style=flat-square" alt="GitHub Last Commit">
   </a>
-
-
 </div>
+
 
 ---
 
