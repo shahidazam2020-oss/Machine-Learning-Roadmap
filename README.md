@@ -25,9 +25,16 @@
 
 <br>
 
-[![GitHub Stars](https://img.shields.io/github/stars/shahidazam2020-oss/Machine-Learning-Roadmap?style=social)](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/shahidazam2020-oss/Machine-Learning-Roadmap?style=social)](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/forks)
-[![Last Commit](https://img.shields.io/github/last-commit/shahidazam2020-oss/Machine-Learning-Roadmap?style=flat-square)](https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/commits/master)
+  <a href="https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/stargazers">
+    <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Machine-Learning-Roadmap?style=social" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/forks">
+    <img src="https://img.shields.io/github/forks/shahidazam2020-oss/Machine-Learning-Roadmap?style=social" alt="GitHub Forks">
+  </a>
+  <a href="https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/commits">
+    <img src="https://img.shields.io/github/last-commit/shahidazam2020-oss/Machine-Learning-Roadmap?style=flat-square" alt="GitHub Last Commit">
+  </a>
+
 
 </div>
 
