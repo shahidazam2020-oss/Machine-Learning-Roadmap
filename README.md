@@ -23,7 +23,6 @@
 [⚙️ Setup](#-getting-started) &nbsp; • &nbsp;
 [👨‍💻 Developer](#-about-the-developer)
 
-<p align="left">
   <a href="https://github.com/shahidazam2020-oss/Machine-Learning-Roadmap/stargazers">
     <img src="https://img.shields.io/github/stars/shahidazam2020-oss/Machine-Learning-Roadmap?style=social" alt="GitHub Stars">
   </a>
