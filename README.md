@@ -619,20 +619,6 @@ Potential areas for further exploration include:
 
 ---
 
-# 🤝 CONTRIBUTIONS
-
-Suggestions, feedback, and improvements are welcome.
-
-If you would like to contribute:
-
-1. Fork this repository.
-2. Create a new branch.
-3. Implement your improvements.
-4. Test your code.
-5. Submit a Pull Request.
-
----
-
 # 📜 LICENSE
 
 No explicit open-source license is currently specified for this repository.
