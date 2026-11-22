@@ -670,3 +670,5 @@ Developed with ❤️ by **Shahid Azam**
 If this project helps you understand machine learning for healthcare prediction, consider:
 
 ⭐ **Starring the repository**
+
+🍴 **Forking the project**
