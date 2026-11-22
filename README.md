@@ -652,22 +652,6 @@ Interested in Artificial Intelligence, Machine Learning, Deep Learning, Natural 
 
 ---
 
-<div align="center">
-
-# ⭐ SUPPORT THIS PROJECT
-
-If you find this repository helpful:
-
-⭐ Star the repository.
-
-🍴 Fork it for your own experiments.
-
-💬 Share your feedback.
-
-🤝 Contribute improvements.
-
-<br>
-
 ### 🧠 Learn • Code • Experiment • Innovate
 
 **Building Machine Learning Knowledge Through Practical Implementation.**
@@ -679,3 +663,5 @@ Developed with ❤️ by **Shahid Azam**
 [⬆ Back to Top](#-machine-learning)
 
 </div>
+
+---
